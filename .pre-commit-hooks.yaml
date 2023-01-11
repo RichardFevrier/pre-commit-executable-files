@@ -1,0 +1,5 @@
+- id: check-executable-files
+  name: check executable files
+  description: checks for files that should be executable.
+  entry: check-executable-files
+  language: python
